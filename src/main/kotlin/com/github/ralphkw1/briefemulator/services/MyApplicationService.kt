@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ralphkw1.briefemulator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ralphkw1.briefemulator.MyBundle
 
 class MyApplicationService {
 
